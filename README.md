@@ -20,6 +20,10 @@ Consider a one level hierarchy. We first generate h -step-ahead forecasts for al
 
 Data Visulization about the sales distribution on BU and province to better communicate with our stakeholders
 
+![hierarchical forcasting](https://github.com/kulalalinda/Hieratical-forecasting/assets/65513033/7caf7db5-afa0-4233-9292-0ffe0eaf1c6a)
 
+![TS by province](https://github.com/kulalalinda/Hieratical-forecasting/assets/65513033/0f310e13-b5dd-4f7c-8edb-2b1ed55af2db)
 
+research on data visulization methodology to showcase province sales data in a geographical way 
+![Province sales](https://github.com/kulalalinda/Hieratical-forecasting/assets/65513033/8036a555-6e14-463a-b506-1b1748f615cd)
 
