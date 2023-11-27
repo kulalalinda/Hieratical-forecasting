@@ -18,3 +18,8 @@ Forecast proportions-Because historical proportions used for disaggregation do n
 Consider a one level hierarchy. We first generate h -step-ahead forecasts for all of the series. We don’t use these forecasts directly, and they are not coherent (they don’t add up correctly). Let’s call these “initial” forecasts. We calculate the proportion of each  h-step-ahead initial forecast at the bottom level, to the aggregate of all the h -step-ahead initial forecasts at this level. We refer to these as the forecast proportions, and we use them to disaggregate the top-level  h -step-ahead initial forecast in order to generate coherent forecasts for the whole of the hierarchy.                                                                
                                                                                                                                                                                                                                                           * reference:https://otexts.com/fpp2/top-down.html
 
+Data Visulization about the sales distribution on BU and province to better communicate with our stakeholders
+
+
+
+
